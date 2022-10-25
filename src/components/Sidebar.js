@@ -26,8 +26,12 @@ function Sidebar(props) {
       </div>
       <div className="sidebar_search">
         <div className="sidebar_searchContainer">
+          <input
+            style={{ fontSize: "15px", fontWeight: "700" }}
+            type="text"
+            placeholder="Search or start new chat"
+          />
           <SearchOutlined />
-          <input type="text" placeholder="Search or start new chat" />
         </div>
       </div>
       <div className="sidebar_chats">

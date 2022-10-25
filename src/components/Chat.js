@@ -50,7 +50,7 @@ function Chat() {
           <div style={{ display: "flex", flexDirection: "column" }}>
             <img
               style={{ width: "200px", height: "100px" }}
-              src={"/wallpaper.jpg"}
+              src={"https://picsum.photos/200"}
             />
           </div>
           <div
