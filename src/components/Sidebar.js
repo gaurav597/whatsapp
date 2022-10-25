@@ -6,7 +6,7 @@ import MoreVertIcon from "@material-ui/icons/MoreVert";
 import AddIcon from "@material-ui/icons/Add";
 import SettingsIcon from "@material-ui/icons/Settings";
 import { SearchOutlined } from "@material-ui/icons";
-import { contactList } from "./mockData";
+import { contactList } from "../mockData";
 import SidebarChat from "./SidebarChat";
 
 function Sidebar(props) {
