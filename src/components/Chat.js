@@ -25,7 +25,7 @@ function Chat() {
           <IconButton>
             <SearchOutlined />
           </IconButton>
-          <img className="ProfileIcon" src={"/jeff.jpeg"} />
+          <img className="ProfileIcon" src={"https://picsum.photos/200"} />
           {/* <IconButton>
             <AttachFile />
           </IconButton>
@@ -50,7 +50,7 @@ function Chat() {
           <div style={{ display: "flex", flexDirection: "column" }}>
             <img
               style={{ width: "200px", height: "100px" }}
-              src={"https://picsum.photos/200"}
+              src={"https://picsum.photos/id/1038/200/200"}
             />
           </div>
           <div
