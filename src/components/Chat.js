@@ -36,7 +36,7 @@ function Chat() {
       </div>
       <div className="chat_body">
         <p className="chat_message">
-          Ok!
+          Ok!👍
           <span className="chat_timestemp">11:59 AM</span>
         </p>
         <p className={`chat_message ${"chat_receiver"}`}>
@@ -66,7 +66,7 @@ function Chat() {
           {/* <span className="chat_timestemp">11:59 AM</span> */}
         </p>
         <p className={`chat_message ${"chat_receiver"}`}>
-          Yes that's my fave too
+          😁 Yes that's my fave too!
           <span className="chat_timestemp">11:59 AM</span>
         </p>
       </div>

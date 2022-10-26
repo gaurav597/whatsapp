@@ -20,7 +20,7 @@ function SidebarChat(props) {
       </div>
       {userData.id === 1 || userData.id === 2 ? (
         <span className="MessageTime">
-          <p style={{ color: "#99b3ff" }}>{userData.lastTextTime}</p>
+          <p style={{ color: "blue" }}>{userData.lastTextTime}</p>
           <p
             style={{
               backgroundColor: "blue",

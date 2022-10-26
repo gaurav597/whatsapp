@@ -31,7 +31,7 @@ export const contactList = [
     id: 5,
     name: "Alice Whitman",
     profilePic: "https://picsum.photos/200",
-    lastText: "Yes that's my fave too!",
+    lastText: "😁Yes that's my fave too!",
     lastTextTime: "12:00 PM",
   },
   {
